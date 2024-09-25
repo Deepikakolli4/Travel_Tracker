@@ -14,17 +14,14 @@ The **Family Travel Tracker** is an interactive web-based application that allow
 
 ## Screenshot
 
-*Insert screenshot here*
-
-![Family Travel Tracker Screenshot](C:\Users\kolli\internship\Family_Travel_Tracker\assests)
+![Family Travel Tracker Screenshot](./assests/familytravel.png)
 
 ## Demo Video
 
-*Insert demo video here*
-
 If you'd like to see how the Family Travel Tracker works in action, check out this demo:
 
-[![Family Travel Tracker Demo](path-to-thumbnail)](C:\Users\kolli\internship\Family_Travel_Tracker\assests)
+[![Family Travel Tracker Demo](./assests/travel.mp4)](./assests/travel.mp4)
+
 
 ## How It Works
 
